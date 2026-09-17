@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://diaoamadou.site/</loc>
   </url>
+
+  <url>
+    <loc>https://diaoamadou.site/a-propos</loc>
+  </url>
+
+  <url>
+    <loc>https://diaoamadou.site/services</loc>
+  </url>
+
+  <url>
+    <loc>https://diaoamadou.site/competences</loc>
+  </url>
+
+  <url>
+    <loc>https://diaoamadou.site/projets</loc>
+  </url>
+
+  <url>
+    <loc>https://diaoamadou.site/contact</loc>
+  </url>
+
 </urlset>
